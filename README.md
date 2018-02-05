@@ -5,5 +5,5 @@ This tutorial provides a brief introduction to using loops in R. It gives you an
 Examples using: 
 
 *  `apply` family of functions in R
-*  The ['Rcpp' package](https://cran.r-project.org/web/packages/Rcpp/index.html), the provides R functions as well as C++ classes which offer a seamless integration of R and C++.
+*  The ['Rcpp' package](https://cran.r-project.org/web/packages/Rcpp/index.html), that provides R functions as well as C++ classes which offer a seamless integration of R and C++.
 
